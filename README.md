@@ -35,4 +35,3 @@
 
 现在群人数已经超过100人，只能先加好友，然后内部邀请！
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/4969340-7df329f4043ccea6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
