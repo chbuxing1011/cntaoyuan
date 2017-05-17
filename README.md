@@ -8,17 +8,18 @@
 ### 操作步骤：
 * 1、 推广人员会提供商品推广二维码或者淘口令。二维码识别后可以跳转到网页操作。也可以直接点击链接。因为阿里和腾讯的双马大战，位置不支持阿里的跳转链接，在微信里面需要点击右上角的使用浏览器打开链接。
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/4969340-389dcbd125dbba6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![4969340-389dcbd125dbba6f.png](http://upload-images.jianshu.io/upload_images/4969340-01b2267c37505ac6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/4969340-7599f449d6c4fdf4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * 2、 复制上面淘口令用手机淘宝app打开。
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/4969340-af9dc4a0e9a35443.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![4969340-af9dc4a0e9a35443.png](http://upload-images.jianshu.io/upload_images/4969340-722f1b109720e0f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 3、 点击 立即查看 进入优惠券页面。
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/4969340-5f8b2819b89d6e15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![4969340-5f8b2819b89d6e15.png](http://upload-images.jianshu.io/upload_images/4969340-2ba95f3ac811d831.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 注意：优惠券是限时限量的，感兴趣的商品可以先领取优惠券。如果对当前优惠券不满意，可以查看下方推荐的其它优惠券哦！
 * 4、 然后点击领取15元内部优惠券，进入产品详情页面可下单购买。
@@ -34,4 +35,3 @@
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/4969340-49a1ce37cd913946.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 现在群人数已经超过100人，只能先加好友，然后内部邀请！
-
